@@ -23,6 +23,6 @@
 
 <h3 align="center"><font color="blue">ALL IN ONE INSTALLER</h3></font>
 <p align="center">
-<b>wget -q https://raw.githubusercontent.com/shadow046/openvpndeb/master/openvpn && chmod +x openvpn && ./openvpn
+<b>wget -q https://raw.githubusercontent.com/RackMods/AutoScryptAllInDeb9/master/openvpn && chmod +x openvpn && ./openvpn
 </b>
 </p>
